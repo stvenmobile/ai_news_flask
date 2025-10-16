@@ -1,0 +1,452 @@
+[
+  {
+    "title": "Samsung and SK join OpenAI\u2019s Stargate initiative to advance global AI infrastructure",
+    "link": "https://openai.com/index/samsung-and-sk-join-stargate",
+    "published": "Wed, 01 Oct 2025 03:00:00 GMT",
+    "summary": "Samsung and SK join OpenAI\u2019s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
+    "source": "OpenAI",
+    "timestamp": "2025-10-02T02:18:28.768459",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "The Sora feed philosophy",
+    "link": "https://openai.com/index/sora-feed-philosophy",
+    "published": "Tue, 30 Sep 2025 10:00:00 GMT",
+    "summary": "Discover the Sora feed philosophy\u2014built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
+    "source": "OpenAI",
+    "timestamp": "2025-10-02T02:18:28.768470",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Sora 2 System Card",
+    "link": "https://openai.com/index/sora-2-system-card",
+    "published": "Tue, 30 Sep 2025 00:00:00 GMT",
+    "summary": "Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve\u2013 such as more accurate physics, sharper realism, synchronized audio, enhanced steerability, and an expanded stylistic range.",
+    "source": "OpenAI",
+    "timestamp": "2025-10-02T02:18:28.768480",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Launching Sora responsibly",
+    "link": "https://openai.com/index/launching-sora-responsibly",
+    "published": "Tue, 30 Sep 2025 00:00:00 GMT",
+    "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we\u2019ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
+    "source": "OpenAI",
+    "timestamp": "2025-10-02T02:18:28.768484",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Sora 2 is here",
+    "link": "https://openai.com/index/sora-2",
+    "published": "Tue, 30 Sep 2025 00:00:00 GMT",
+    "summary": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.",
+    "source": "OpenAI",
+    "timestamp": "2025-10-02T02:18:28.768487",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Building OpenAI with OpenAI",
+    "link": "https://openai.com/index/building-openai-with-openai",
+    "published": "Mon, 29 Sep 2025 13:30:00 GMT",
+    "summary": "At OpenAI, we rely on our own technology to help streamline work, scale expertise, and drive outcomes. In our new series, OpenAI on OpenAI, we share lessons to help other organizations do the same.",
+    "source": "OpenAI",
+    "timestamp": "2025-10-02T02:18:28.768490",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Turning contracts into searchable data at OpenAI",
+    "link": "https://openai.com/index/openai-contract-data-agent",
+    "published": "Mon, 29 Sep 2025 13:30:00 GMT",
+    "summary": "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need.",
+    "source": "OpenAI",
+    "timestamp": "2025-10-02T02:18:28.768494",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Converting inbound leads into customers at OpenAI",
+    "link": "https://openai.com/index/openai-inbound-sales-assistant",
+    "published": "Mon, 29 Sep 2025 13:30:00 GMT",
+    "summary": "Learn how OpenAI used AI to deliver personalized answers at scale, converting inbound leads into customers.",
+    "source": "OpenAI",
+    "timestamp": "2025-10-02T02:18:28.768497",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Driving sales productivity and customer success at OpenAI",
+    "link": "https://openai.com/index/openai-gtm-assistant",
+    "published": "Mon, 29 Sep 2025 13:30:00 GMT",
+    "summary": "Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices.",
+    "source": "OpenAI",
+    "timestamp": "2025-10-02T02:18:28.768501",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Empowering teams to unlock insights faster at OpenAI",
+    "link": "https://openai.com/index/openai-research-assistant",
+    "published": "Mon, 29 Sep 2025 13:30:00 GMT",
+    "summary": "OpenAI\u2019s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company.",
+    "source": "OpenAI",
+    "timestamp": "2025-10-02T02:18:28.768504",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "From sketches to prototype: Designing with generative AI",
+    "link": "https://blog.google/technology/google-deepmind/ross-lovegrove-design/",
+    "published": "Wed, 01 Oct 2025 16:00:00 +0000",
+    "summary": "Ross Lovegrove x Google DeepMind",
+    "source": "GoogleAI",
+    "timestamp": "2025-10-02T02:18:31.207508",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Our new partnership with the University of Waterloo on the future of learning and work",
+    "link": "https://blog.google/technology/ai/google-university-of-waterloo-education-work/",
+    "published": "Wed, 01 Oct 2025 14:30:00 +0000",
+    "summary": "Hero image of education and AI",
+    "source": "GoogleAI",
+    "timestamp": "2025-10-02T02:18:31.207517",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "The Global AI Film Award is now accepting applications",
+    "link": "https://blog.google/products/gemini/the-global-ai-film-award-is-now-accepting-applications/",
+    "published": "Wed, 01 Oct 2025 12:00:00 +0000",
+    "summary": "A video that covers the AI Film Award details in the blog.",
+    "source": "GoogleAI",
+    "timestamp": "2025-10-02T02:18:31.207521",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "AI Mode can now help you search and explore visually",
+    "link": "https://blog.google/products/search/search-ai-updates-september-2025/",
+    "published": "Tue, 30 Sep 2025 13:00:00 +0000",
+    "summary": "ask ai mode",
+    "source": "GoogleAI",
+    "timestamp": "2025-10-02T02:18:31.207525",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Google\u2019s \u201cG\u201d gets a brighter look.",
+    "link": "https://blog.google/inside-google/company-announcements/gradient-g-logo-design/",
+    "published": "Mon, 29 Sep 2025 01:00:00 +0000",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_Social.max-600x600.format-webp.webp\" />Ten years ago, we introduced Google\u2019s signature four-color G to match the new look and feel of our logo. The design update reflected all the ways people interacted with \u2026",
+    "source": "GoogleAI",
+    "timestamp": "2025-10-02T02:18:31.207528",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Golf champ Bryson DeChambeau is partnering with Google Cloud to explore AI and sports performance.",
+    "link": "https://blog.google/products/google-cloud/bryson-dechambeau/",
+    "published": "Fri, 26 Sep 2025 10:40:00 +0000",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson-performance-AI-YT-thumbn.max-600x600.format-webp.webp\" />Bryson DeChambeau is kicking off a partnership with Google Cloud to expand his AI aspirations.",
+    "source": "GoogleAI",
+    "timestamp": "2025-10-02T02:18:31.207531",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Google AI Pro and Ultra subscribers now get Gemini CLI and Gemini Code Assist with higher limits.",
+    "link": "https://blog.google/technology/developers/gemini-cli-code-assist-higher-limits/",
+    "published": "Wed, 24 Sep 2025 16:00:00 +0000",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAIPro_Gemini_CLI_CodeAssi.max-600x600.format-webp.webp\" />Google AI Pro and Ultra subscribers now get higher limits to Gemini CLI and Gemini Code Assist IDE extensions.",
+    "source": "GoogleAI",
+    "timestamp": "2025-10-02T02:18:31.207535",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "5 ways to get real-time help by going Live with Search",
+    "link": "https://blog.google/products/search/search-live-tips/",
+    "published": "Wed, 24 Sep 2025 16:00:00 +0000",
+    "summary": "Live Search feature on a smartphone screen over a background of knitted gray fabric.",
+    "source": "GoogleAI",
+    "timestamp": "2025-10-02T02:18:31.207539",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "We\u2019re making public data more usable for AI developers with the Data Commons MCP Server.",
+    "link": "https://blog.google/technology/developers/ai-agents-datacommons/",
+    "published": "Wed, 24 Sep 2025 15:00:00 +0000",
+    "summary": "Image showing a cartoon putting together puzzle pieces that say \"MCP Tools\" and \"Data Commons\"",
+    "source": "GoogleAI",
+    "timestamp": "2025-10-02T02:18:31.207542",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "How Veo is helping the Fukuda Art Museum create \u201cMoving Paintings\u201d",
+    "link": "https://blog.google/outreach-initiatives/arts-culture/how-veo-is-helping-the-fukuda-art-museum-create-moving-paintings/",
+    "published": "Wed, 24 Sep 2025 10:00:00 +0000",
+    "summary": "Moving Paintings hero image",
+    "source": "GoogleAI",
+    "timestamp": "2025-10-02T02:18:31.207545",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Using AI to assist in rare disease diagnosis",
+    "link": "https://www.microsoft.com/en-us/research/blog/using-ai-to-assist-in-rare-disease-diagnosis/",
+    "published": "Mon, 22 Sep 2025 14:17:03 +0000",
+    "summary": "<p>New research from Microsoft, Drexel, and the Broad explores how generative AI could support genetic professionals in rare disease diagnosis.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/using-ai-to-assist-in-rare-disease-diagnosis/\">Using AI to assist in rare disease diagnosis</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+    "source": "MicrosoftAI",
+    "timestamp": "2025-10-02T02:18:33.692294",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Tool-space interference in the MCP era: Designing for agent compatibility at scale",
+    "link": "https://www.microsoft.com/en-us/research/blog/tool-space-interference-in-the-mcp-era-designing-for-agent-compatibility-at-scale/",
+    "published": "Thu, 11 Sep 2025 16:00:00 +0000",
+    "summary": "<p>As agentic AI ushers in a new era marked by tool expansion, systems are converging, and complexity is rising. Microsoft Research explores the Model Context Protocol (MCP) as a new standard for agent collaboration across fragmented tool ecosystems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/tool-space-interference-in-the-mcp-era-designing-for-agent-compatibility-at-scale/\">Tool-space interference in the MCP era: Designing for agent compatibility at scale</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+    "source": "MicrosoftAI",
+    "timestamp": "2025-10-02T02:18:33.692305",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "RenderFormer: How neural networks are reshaping 3D rendering",
+    "link": "https://www.microsoft.com/en-us/research/blog/renderformer-how-neural-networks-are-reshaping-3d-rendering/",
+    "published": "Wed, 10 Sep 2025 16:00:00 +0000",
+    "summary": "<p> RenderFormer, from Microsoft Research, is the first model to show that a neural network can learn a complete graphics rendering pipeline. It\u2019s designed to support full-featured 3D rendering using only machine learning\u2014no traditional graphics computation required. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/renderformer-how-neural-networks-are-reshaping-3d-rendering/\">RenderFormer: How neural networks are reshaping 3D rendering</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+    "source": "MicrosoftAI",
+    "timestamp": "2025-10-02T02:18:33.692309",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Breaking the\u00a0networking\u00a0wall\u00a0in\u00a0AI infrastructure",
+    "link": "https://www.microsoft.com/en-us/research/blog/breaking-the-networking-wall-in-ai-infrastructure/",
+    "published": "Tue, 09 Sep 2025 14:00:00 +0000",
+    "summary": "<p>Datacenter memory and network limits are restraining AI system performance. MOSAIC uses microLEDs and a wide-and-slow optical architecture to deliver faster, longer, more reliable, and energy efficient connections that could transform AI cluster designs.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/breaking-the-networking-wall-in-ai-infrastructure/\">Breaking the\u00a0networking\u00a0wall\u00a0in\u00a0AI infrastructure\u00a0</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+    "source": "MicrosoftAI",
+    "timestamp": "2025-10-02T02:18:33.692313",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Crescent library brings privacy to digital identity systems",
+    "link": "https://www.microsoft.com/en-us/research/blog/crescent-library-brings-privacy-to-digital-identity-systems/",
+    "published": "Tue, 26 Aug 2025 16:00:00 +0000",
+    "summary": "<p>Crescent helps make digital IDs private by preventing tracking across uses while letting users only disclose what\u2019s necessary from their credentials.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/crescent-library-brings-privacy-to-digital-identity-systems/\">Crescent library brings privacy to digital identity systems</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+    "source": "MicrosoftAI",
+    "timestamp": "2025-10-02T02:18:33.692316",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Applicability vs. job displacement: further notes on our recent research on AI and occupations",
+    "link": "https://www.microsoft.com/en-us/research/blog/applicability-vs-job-displacement-further-notes-on-our-recent-research-on-ai-and-occupations/",
+    "published": "Thu, 21 Aug 2025 17:00:00 +0000",
+    "summary": "<p>Recently, we released a paper\u00a0Working with AI: Measuring the Occupational Implications of Generative AI\u00a0that studied what occupations might\u00a0find\u00a0AI chatbots\u00a0useful, and to what degree.\u00a0The paper sparked significant discussion,\u00a0which is no\u00a0surprise\u00a0since\u00a0people care\u00a0deeply\u00a0about\u00a0the future of AI and\u00a0jobs--that\u2019s part of why we think\u00a0it\u2019s\u00a0important to study these\u00a0topics.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/applicability-vs-job-displacement-further-notes-on-our-recent-research-on-ai-and-occupations/\">Applicability vs. job displacement: further notes on our recent research on AI and occupations</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+    "source": "MicrosoftAI",
+    "timestamp": "2025-10-02T02:18:33.692319",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Coauthor roundtable: Reflecting on healthcare economics, biomedical research, and medical education",
+    "link": "https://www.microsoft.com/en-us/research/podcast/coauthor-roundtable-reflecting-on-healthcare-economics-biomedical-research-and-medical-education/",
+    "published": "Thu, 21 Aug 2025 16:00:00 +0000",
+    "summary": "<p>For the series finale, Peter Lee, Carey Goldberg, and Dr. Zak Kohane compare their predictions to insights from the series\u2019 most recent guests, including experts on AI\u2019s economic and societal impact, leaders in AI-driven medicine, and doctors in training.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/podcast/coauthor-roundtable-reflecting-on-healthcare-economics-biomedical-research-and-medical-education/\">Coauthor roundtable: Reflecting on healthcare economics, biomedical research, and medical education</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+    "source": "MicrosoftAI",
+    "timestamp": "2025-10-02T02:18:33.692323",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "MindJourney enables AI to explore simulated 3D worlds to improve spatial interpretation",
+    "link": "https://www.microsoft.com/en-us/research/blog/mindjourney-enables-ai-to-explore-simulated-3d-worlds-to-improve-spatial-interpretation/",
+    "published": "Wed, 20 Aug 2025 16:00:00 +0000",
+    "summary": "<p>MindJourney can enable AI to navigate and interpret 3D environments from limited visual input, potentially improving performance in navigation, planning, and safety-critical tasks.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/mindjourney-enables-ai-to-explore-simulated-3d-worlds-to-improve-spatial-interpretation/\">MindJourney enables AI to explore simulated 3D worlds to improve spatial interpretation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+    "source": "MicrosoftAI",
+    "timestamp": "2025-10-02T02:18:33.692326",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Dion: the distributed orthonormal update revolution is here",
+    "link": "https://www.microsoft.com/en-us/research/blog/dion-the-distributed-orthonormal-update-revolution-is-here/",
+    "published": "Tue, 12 Aug 2025 20:09:21 +0000",
+    "summary": "<p>Dion is a new AI model optimization method that boosts scalability and performance over existing leading methods by orthonormalizing only a top rank subset of singular vectors, enabling more efficient training of large models such as LLaMA-3 with reduced overhead.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/dion-the-distributed-orthonormal-update-revolution-is-here/\">Dion: the distributed orthonormal update revolution is here</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+    "source": "MicrosoftAI",
+    "timestamp": "2025-10-02T02:18:33.692330",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Reimagining healthcare delivery and public health with AI",
+    "link": "https://www.microsoft.com/en-us/research/podcast/reimagining-healthcare-delivery-and-public-health-with-ai/",
+    "published": "Thu, 07 Aug 2025 16:00:00 +0000",
+    "summary": "<p>Former Washington State Secretary of Health Dr. Umair Shah and Mayo Clinic CEO Dr. Gianrico Farrugia explore how healthcare leaders are approaching AI when it comes to public health, care delivery, the healthcare-research connection, and the patient experience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/podcast/reimagining-healthcare-delivery-and-public-health-with-ai/\">Reimagining healthcare delivery and public health with AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+    "source": "MicrosoftAI",
+    "timestamp": "2025-10-02T02:18:33.692333",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "CIMNAS: A Joint Framework for Compute-In-Memory-Aware Neural Architecture Search",
+    "link": "https://arxiv.org/abs/2509.25862",
+    "published": "Wed, 01 Oct 2025 00:00:00 -0400",
+    "summary": "arXiv:2509.25862v1 Announce Type: cross \nAbstract: To maximize hardware efficiency and performance accuracy in Compute-In-Memory (CIM)-based neural network accelerators for Artificial Intelligence (AI) applications, co-optimizing both software and hardware design parameters is essential. Manual tuning is impractical due to the vast number of parameters and their complex interdependencies. To effectively automate the design and optimization of CIM-based neural network accelerators, hardware-aware neural architecture search (HW-NAS) techniques can be applied. This work introduces CIMNAS, a joint model-quantization-hardware optimization framework for CIM architectures. CIMNAS simultaneously searches across software parameters, quantization policies, and a broad range of hardware parameters, incorporating device-, circuit-, and architecture-level co-optimizations. CIMNAS experiments were conducted over a search space of 9.9x10^85 potential parameter combinations with the MobileNet model as a baseline and RRAM-based CIM architecture. Evaluated on the ImageNet dataset, CIMNAS achieved a reduction in energy-delay-area product (EDAP) ranging from 90.1x to 104.5x, an improvement in TOPS/W between 4.68x and 4.82x, and an enhancement in TOPS/mm^2 from 11.3x to 12.78x relative to various baselines, all while maintaining an accuracy of 73.81%. The adaptability and robustness of CIMNAS are demonstrated by extending the framework to support the SRAM-based ResNet50 architecture, achieving up to an 819.5x reduction in EDAP. Unlike other state-of-the-art methods, CIMNAS achieves EDAP-focused optimization without any accuracy loss, generating diverse software-hardware parameter combinations for high-performance CIM-based neural network designs. The source code of CIMNAS is available at https://github.com/OlgaKrestinskaya/CIMNAS.",
+    "source": "arXiv_ET",
+    "timestamp": "2025-10-02T02:18:33.814768",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Robust NbN on Si-SiGe hybrid superconducting-semiconducting microwave quantum circuit",
+    "link": "https://arxiv.org/abs/2509.26363",
+    "published": "Wed, 01 Oct 2025 00:00:00 -0400",
+    "summary": "arXiv:2509.26363v1 Announce Type: cross \nAbstract: Advancing large-scale quantum computing requires superconducting circuits that combine long coherence times with compatibility with semiconductor technology. We investigate niobium nitride (NbN) coplanar waveguide resonators integrated with Si/SiGe quantum wells, creating a hybrid platform designed for CMOS-compatible quantum hardware. Using temperature-dependent microwave spectroscopy in the single-photon regime, we examine resonance frequency and quality factor variations to probe the underlying loss mechanisms. Our analysis identifies the roles of two-level systems, quasiparticles, and scattering processes, and connects these losses to wafer properties and fabrication methods. The devices demonstrate reproducible performance and stable operation maintained for over two years, highlighting their robustness. These results provide design guidelines for developing low-loss, CMOS-compatible superconducting circuits and support progress toward resilient, scalable architectures for quantum information processing.",
+    "source": "arXiv_ET",
+    "timestamp": "2025-10-02T02:18:33.814781",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "SOT-MRAM Bitcell Scaling with BEOL Read Selectors: A DTCO Study",
+    "link": "https://arxiv.org/abs/2508.18250",
+    "published": "Wed, 01 Oct 2025 00:00:00 -0400",
+    "summary": "arXiv:2508.18250v3 Announce Type: replace \nAbstract: This work explores the cross-node scaling potential of SOT-MRAM for last-level caches (LLCs) under heterogeneous system scaling paradigm. We perform extensive Design-Technology Co-Optimization (DTCO) exercises to evaluate the bitcell footprint for different cell configurations at a representative 7 nm technology and to assess their implications on read and write power-performance. We crucially identify the MTJ routing struggle in conventional two-transistor one-resistor (2T1R) SOT-MRAMs as the primary bitcell area scaling challenge and propose to use BEOL read selectors (BEOL RSs) that enable (10 -- 40) % bitcell area reduction and eventually match sub-N3 SRAM. On writability, we affirm that BEOL RS-based bitcells could meet the required SOT switching current, provided the magnetic free layer properties be engineered in line with LLC-specific, (0.1 -- 100) s retention targets. This is particularly to attribute to their (i) more available Si fins for write transistor and (ii) lower bitline resistance at reduced cell width. We nevertheless underscore the read tradeoff associated with BEOL RSs, with the low-drive IGZO-FET selector sacrificing the latency up to (3 -- 5) ns and the imperfectly rectifying diode selectors suffering (2.5 -- 5)$\\times$ energy cost relative to 2T1R. This article thus highlights the realistic prospects and hurdles of BEOL RSs towards holistic power-performance-area scaling of SOT-MRAM.",
+    "source": "arXiv_ET",
+    "timestamp": "2025-10-02T02:18:33.814785",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "TensorRL-QAS: Reinforcement learning with tensor networks for improved quantum architecture search",
+    "link": "https://arxiv.org/abs/2505.09371",
+    "published": "Wed, 01 Oct 2025 00:00:00 -0400",
+    "summary": "arXiv:2505.09371v2 Announce Type: replace-cross \nAbstract: Variational quantum algorithms hold the promise to address meaningful quantum problems already on noisy intermediate-scale quantum hardware. In spite of the promise, they face the challenge of designing quantum circuits that both solve the target problem and comply with device limitations. Quantum architecture search (QAS) automates the design process of quantum circuits, with reinforcement learning (RL) emerging as a promising approach. Yet, RL-based QAS methods encounter significant scalability issues, as computational and training costs grow rapidly with the number of qubits, circuit depth, and hardware noise. To address these challenges, we introduce $\\textit{TensorRL-QAS}$, an improved framework that combines tensor network methods with RL for QAS. By warm-starting the QAS with a matrix product state approximation of the target solution, TensorRL-QAS effectively narrows the search space to physically meaningful circuits and accelerates the convergence to the desired solution. Tested on several quantum chemistry problems of up to 12-qubit, TensorRL-QAS achieves up to a 10-fold reduction in CNOT count and circuit depth compared to baseline methods, while maintaining or surpassing chemical accuracy. It reduces classical optimizer function evaluation by up to 100-fold, accelerates training episodes by up to 98$\\%$, and can achieve 50$\\%$ success probability for 10-qubit systems, far exceeding the $<$1$\\%$ rates of baseline. Robustness and versatility are demonstrated both in the noiseless and noisy scenarios, where we report a simulation of an 8-qubit system. Furthermore, TensorRL-QAS demonstrates effectiveness on systems on 20-qubit quantum systems, positioning it as a state-of-the-art quantum circuit discovery framework for near-term hardware and beyond.",
+    "source": "arXiv_ET",
+    "timestamp": "2025-10-02T02:18:33.814789",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Model Discovery and Graph Simulation: A Lightweight Gateway to Chaos Engineering",
+    "link": "https://arxiv.org/abs/2506.11176",
+    "published": "Wed, 01 Oct 2025 00:00:00 -0400",
+    "summary": "arXiv:2506.11176v2 Announce Type: replace-cross \nAbstract: Chaos engineering reveals resilience risks but is expensive and operationally risky to run broadly and often. Model-based analyses can estimate dependability, yet in practice they are tricky to build and keep current because models are typically handcrafted. We claim that a simple connectivity-only topological model - just the service-dependency graph plus replica counts - can provide fast, low-risk availability estimates under fail-stop faults. To make this claim practical without hand-built models, we introduce model discovery: an automated step that can run in CI/CD or as an observability-platform capability, synthesizing an explicit, analyzable model from artifacts teams already have (e.g., distributed traces, service-mesh telemetry, configs/manifests) - providing an accessible gateway for teams to begin resilience testing. As a proof by instance on the DeathStarBench Social Network, we extract the dependency graph from Jaeger and estimate availability across two deployment modes and five failure rates. The discovered model closely tracks live fault-injection results; with replication, median error at mid-range failure rates is near zero, while no-replication shows signed biases consistent with excluded mechanisms. These results create two opportunities: first, to triage and reduce the scope of expensive chaos experiments in advance, and second, to generate real-time signals on the system's resilience posture as its topology evolves, preserving live validation for the most critical or ambiguous scenarios.",
+    "source": "arXiv_ET",
+    "timestamp": "2025-10-02T02:18:33.814792",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Scientists Just Found the Oldest Dome-Head Dinosaur Ever",
+    "link": "https://scitechdaily.com/scientists-just-found-the-oldest-dome-head-dinosaur-ever/",
+    "published": "Wed, 01 Oct 2025 23:28:23 +0000",
+    "summary": "<a href=\"https://scitechdaily.com/scientists-just-found-the-oldest-dome-head-dinosaur-ever/\" rel=\"nofollow\" title=\"Scientists Just Found the Oldest Dome-Head Dinosaur Ever\"><img alt=\"Pachycephalosaurs Illustration\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"474\" src=\"https://scitechdaily.com/images/Pachycephalosaurs-Illustration-777x474.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>In Mongolia\u2019s Gobi Desert, researchers uncovered a remarkably complete fossil of a dome-headed dinosaur that lived 108 million years ago. Nicknamed the \u201cprecious one,\u201d this teenage pachycephalosaur is the oldest of its kind ever found, pushing the group\u2019s fossil record back by 15 million years. Discovery of a Teen Dinosaur in the Gobi Desert A [...]",
+    "source": "SciTechDaily",
+    "timestamp": "2025-10-02T02:18:34.005579",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "How Copper Smelters Accidentally Sparked the Birth of the Iron Age",
+    "link": "https://scitechdaily.com/how-copper-smelters-accidentally-sparked-the-birth-of-the-iron-age/",
+    "published": "Wed, 01 Oct 2025 23:03:43 +0000",
+    "summary": "<a href=\"https://scitechdaily.com/how-copper-smelters-accidentally-sparked-the-birth-of-the-iron-age/\" rel=\"nofollow\" title=\"How Copper Smelters Accidentally Sparked the Birth of the Iron Age\"><img alt=\"Hot Fire Metal Sparks Mine Blending\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Hot-Fire-Metal-Sparks-Mine-Blending-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Copper smelters once used iron oxide to refine copper, unintentionally advancing the path toward iron metallurgy. Research conducted at Cranfield University provides new insight into the shift from the Bronze Age to the Iron Age, suggesting that copper smelters experimenting with iron-rich rocks may have unintentionally paved the way for the invention of iron. The [...]",
+    "source": "SciTechDaily",
+    "timestamp": "2025-10-02T02:18:34.005589",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Rewriting the Story of Human Migration: Scientists Uncover Lost Land Bridge to Europe",
+    "link": "https://scitechdaily.com/rewriting-the-story-of-human-migration-scientists-uncover-lost-land-bridge-to-europe/",
+    "published": "Wed, 01 Oct 2025 22:38:21 +0000",
+    "summary": "<a href=\"https://scitechdaily.com/rewriting-the-story-of-human-migration-scientists-uncover-lost-land-bridge-to-europe/\" rel=\"nofollow\" title=\"Rewriting the Story of Human Migration: Scientists Uncover Lost Land Bridge to Europe\"><img alt=\"Paleolithic Handaxe\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Paleolithic-Handaxe-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>An \u201cemotional and inspiring\u201d archaeological find of Paleolithic tools has revealed a long-lost prehistoric passage that may have enabled movement between Ayval\u0131k and Europe. Continuous stretches of land, now lying beneath the sea, may once have allowed early humans to move between what is now T\u00fcrkiye and Europe, according to groundbreaking research in a region [...]",
+    "source": "SciTechDaily",
+    "timestamp": "2025-10-02T02:18:34.005593",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Scientists Discover Cancer\u2019s \u201cPower-Up\u201d \u2013 and a New Way To Switch It Off",
+    "link": "https://scitechdaily.com/scientists-discover-cancers-power-up-and-a-new-way-to-switch-it-off/",
+    "published": "Wed, 01 Oct 2025 15:09:43 +0000",
+    "summary": "<a href=\"https://scitechdaily.com/scientists-discover-cancers-power-up-and-a-new-way-to-switch-it-off/\" rel=\"nofollow\" title=\"Scientists Discover Cancer\u2019s \u201cPower-Up\u201d \u2013 and a New Way To Switch It Off\"><img alt=\"Cancer Cells Illustration\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Cancer-Cells-Illustration-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>The discovery of a defensive mechanism could help stop cancer before it spreads. Cancer cells rapidly increase their energy output when physically squeezed, according to a study in Nature Communications. This immediate burst of energy is the first documented defensive response that helps cells repair DNA damage and endure the crowded conditions inside the human [...]",
+    "source": "SciTechDaily",
+    "timestamp": "2025-10-02T02:18:34.005597",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "What Is Chikungunya? The Virus Behind China\u2019s Worst-Ever Outbreak",
+    "link": "https://scitechdaily.com/what-is-chikungunya-the-virus-behind-chinas-worst-ever-outbreak/",
+    "published": "Wed, 01 Oct 2025 14:44:41 +0000",
+    "summary": "<a href=\"https://scitechdaily.com/what-is-chikungunya-the-virus-behind-chinas-worst-ever-outbreak/\" rel=\"nofollow\" title=\"What Is Chikungunya? The Virus Behind China\u2019s Worst-Ever Outbreak\"><img alt=\"Aedes aegypti Mosquito Borne Disease Virus Transmission\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Aedes-aegypti-Mosquito-Borne-Disease-Virus-Transmission-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Southern China is battling its worst chikungunya outbreak on record, fueled by mosquitoes and changing environmental conditions. An editorial published in Biocontaminant highlights that Guangdong Province is now facing the largest chikungunya fever outbreak ever documented in China. Since late July, health officials have confirmed more than 4,000 infections. The majority of these cases, over [...]",
+    "source": "SciTechDaily",
+    "timestamp": "2025-10-02T02:18:34.005600",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Scientists Finally Reveal Biological Basis of Long COVID Brain Fog",
+    "link": "https://scitechdaily.com/scientists-finally-reveal-biological-basis-of-long-covid-brain-fog/",
+    "published": "Wed, 01 Oct 2025 14:19:42 +0000",
+    "summary": "<a href=\"https://scitechdaily.com/scientists-finally-reveal-biological-basis-of-long-covid-brain-fog/\" rel=\"nofollow\" title=\"Scientists Finally Reveal Biological Basis of Long COVID Brain Fog\"><img alt=\"Tired Woman Brain Fog\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"406\" src=\"https://scitechdaily.com/images/Tired-Woman-Brain-Fog-777x406.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Researchers employed a specialized brain imaging technique to identify a potential biomarker and therapeutic target for Long COVID. More than four years after the onset of the COVID-19 pandemic, scientists are still working to fully understand the lingering effects of infection with SARS-CoV-2. One of the most concerning outcomes is Long COVID, a chronic condition [...]",
+    "source": "SciTechDaily",
+    "timestamp": "2025-10-02T02:18:34.005603",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Scientists Develop the World\u2019s First Rechargeable Hydride Ion Battery",
+    "link": "https://scitechdaily.com/scientists-develop-the-worlds-first-rechargeable-hydride-ion-battery/",
+    "published": "Wed, 01 Oct 2025 09:09:24 +0000",
+    "summary": "<a href=\"https://scitechdaily.com/scientists-develop-the-worlds-first-rechargeable-hydride-ion-battery/\" rel=\"nofollow\" title=\"Scientists Develop the World\u2019s First Rechargeable Hydride Ion Battery\"><img alt=\"Schematic Diagram of the First Hydride Ion Prototype Battery\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"339\" src=\"https://scitechdaily.com/images/Schematic-Diagram-of-the-First-Hydride-Ion-Prototype-Battery-777x339.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Scientists have built the first rechargeable hydride ion battery. Hydride ions (H\u207b) have drawn interest as potential charge carriers for future electrochemical devices because of their extremely low mass and high redox potential. Yet, progress has been limited since no electrolyte has been able to provide the combination of rapid ion movement, thermal stability, and [...]",
+    "source": "SciTechDaily",
+    "timestamp": "2025-10-02T02:18:34.005606",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Tiny Quantum Dots Could Transform How We See in the Dark",
+    "link": "https://scitechdaily.com/tiny-quantum-dots-could-transform-how-we-see-in-the-dark/",
+    "published": "Wed, 01 Oct 2025 08:44:28 +0000",
+    "summary": "<a href=\"https://scitechdaily.com/tiny-quantum-dots-could-transform-how-we-see-in-the-dark/\" rel=\"nofollow\" title=\"Tiny Quantum Dots Could Transform How We See in the Dark\"><img alt=\"Face Eco-Friendly Night Vision\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"437\" src=\"https://scitechdaily.com/images/Face-Eco-Friendly-Night-Vision-777x437.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Scientists have created eco-friendly \u201cquantum inks\u201d that can replace toxic metals in infrared detectors. The breakthrough could make night vision faster, cleaner, and more accessible to a wider range of industries. Toxic Metals vs. Infrared Innovation Manufacturers of infrared cameras are facing a growing challenge. Many of the materials used in today\u2019s detectors, including toxic [...]",
+    "source": "SciTechDaily",
+    "timestamp": "2025-10-02T02:18:34.005610",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "Shark-Proof Wetsuits Tested Against Great Whites. The Results Could Save Lives",
+    "link": "https://scitechdaily.com/shark-proof-wetsuits-tested-against-great-whites-the-results-could-save-lives/",
+    "published": "Wed, 01 Oct 2025 08:19:26 +0000",
+    "summary": "<a href=\"https://scitechdaily.com/shark-proof-wetsuits-tested-against-great-whites-the-results-could-save-lives/\" rel=\"nofollow\" title=\"Shark-Proof Wetsuits Tested Against Great Whites. The Results Could Save Lives\"><img alt=\"Testing Bite Resistant Wetuit Material\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"518\" src=\"https://scitechdaily.com/images/Testing-Bite-Resistant-Wetuit-Material-777x518.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>Scientists have tested new bite-resistant wetsuits against powerful shark bites, finding they can significantly reduce life-threatening injuries. Bite-resistant wetsuits are emerging as an important new safety option. Instead of preventing shark encounters entirely, they are designed to reduce the severity of injuries such as cuts, punctures, tissue damage, and blood loss. The overall approach to [...]",
+    "source": "SciTechDaily",
+    "timestamp": "2025-10-02T02:18:34.005613",
+    "novelty_score": null,
+    "importance_score": null
+  },
+  {
+    "title": "What Lies Within? New Image From a Mysterious Galaxy Asks Big Questions",
+    "link": "https://scitechdaily.com/what-lies-within-new-image-from-a-mysterious-galaxy-asks-big-questions/",
+    "published": "Wed, 01 Oct 2025 03:52:14 +0000",
+    "summary": "<a href=\"https://scitechdaily.com/what-lies-within-new-image-from-a-mysterious-galaxy-asks-big-questions/\" rel=\"nofollow\" title=\"What Lies Within? New Image From a Mysterious Galaxy Asks Big Questions\"><img alt=\"OJ 287 Plasma Jet\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"437\" src=\"https://scitechdaily.com/images/OJ-287-Plasma-Jet-777x437.jpg\" style=\"display: block; margin: auto; margin-bottom: 5px;\" width=\"777\" /></a>A detailed image reveals an unusual plasma jet structure, suggesting the presence of two merging supermassive black holes at the galaxy\u2019s core. For more than a century and a half, the distant galaxy OJ 287, located five billion light years from Earth, has intrigued scientists with its unusual changes in brightness. Astronomers have long suspected [...]",
+    "source": "SciTechDaily",
+    "timestamp": "2025-10-02T02:18:34.005616",
+    "novelty_score": null,
+    "importance_score": null
+  }
+]

@@ -1,0 +1,11 @@
+services:
+  ai-news:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ai-news
+    ports:
+      - "5000:8000"   # host 5000 -> container 8000 (gunicorn)
+    environment:
+      TZ: America/New_York
+    restart: unless-stopped
